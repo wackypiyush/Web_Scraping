@@ -1,0 +1,11 @@
+Crypto_Name,Link,Price,Market_Cap
+Bitcoin,https://coinmarketcap.com/currencies/bitcoin/,"$65,922.66",$1.3T
+Ethereum,https://coinmarketcap.com/currencies/ethereum/,"$3,329.20",$400.88B
+Tether USDt,https://coinmarketcap.com/currencies/tether/,$1.00,$104.68B
+BNB,https://coinmarketcap.com/currencies/bnb/,$558.51,$83.68B
+Solana,https://coinmarketcap.com/currencies/solana/,$181.96,$80.94B
+USDC,https://coinmarketcap.com/currencies/usd-coin/,$1.00,$32.87B
+XRP,https://coinmarketcap.com/currencies/xrp/,$0.5897,$32.4B
+Dogecoin,https://coinmarketcap.com/currencies/dogecoin/,$0.1842,$26.48B
+Cardano,https://coinmarketcap.com/currencies/cardano/,$0.5857,$20.85B
+Avalanche,https://coinmarketcap.com/currencies/avalanche/,$47.28,$17.84B
